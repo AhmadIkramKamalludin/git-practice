@@ -1,1 +1,3 @@
 Im gonna study git till o finally understand how to collaborate with others.
+
+Then I will study HTML/CSS.
